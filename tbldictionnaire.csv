@@ -1,0 +1,1388 @@
+sol,2,Installation frigorifique négative de type cascade utilisant du CO2
+tec,2,Management (ISO 50 001)
+sol,3,Centrale négative en mode booster
+tec,3,Gestion des énergies
+sol,4,Arrêt des compresseurs le week end et lorsque le besoin de refroidissement est nul
+tec,4,Organisation
+sol,5,Régulation non électronique sur un compresseur
+tec,5,Bâtiment
+sol,6,Condenseur frigorifique à haute efficacité
+tec,6,Bureautique
+sol,7,Condenseur surélevée pour garantir un bon échange thermique
+tec,7,CVC
+sol,8,Vérification du dimensionnement et remplacement des compresseurs surdimensionnés si nécessaire.
+tec,8,Eclairage
+sol,9,Zone neutre entre les températures de consignes chaude et froide
+tec,9,Enveloppe
+sol,10,Séparation des productions de froid
+tec,10,Utilités
+sol,11,Diminution des entrées de chaleur dans les zones d'utilisation du froid
+tec,11,Air comprimé
+sol,12,Pré-refroidissement du produit
+tec,12,Chaudière
+sol,13,Meuble frigorifique de type vertical avec uniquement éclairage en fronton
+tec,13,Distribution électrique
+sol,14,Rideaux de nuit sur meubles frigorifiques de type vertical à température positive
+tec,14,Froid
+sol,15,Porte non chauffante à haute performance d'isolation pour armoire verticale à froid négatif
+tec,15,Moteur
+sol,16,Séparation du dégivrage d'un meuble frigorifique en plusieurs parties
+tec,16,Pompe
+sol,17,Stockage thermique
+tec,17,Vapeur
+sol,18,Free cooling par tour à vent
+tec,18,Ventilation
+sol,19,Free chilling d'un réseau d'eau glacée
+tec,19,Procédés
+sol,20,Rafraichissement solaire
+tec,20,Chgt de combustible
+sol,21,Contrôle de l'état du calorifugeage du circuit froid et réparer si nécessaire.
+tec,21,"Fours, combustion"
+sol,22,Vérification et remplacement du calorifugeage des chambres froides
+tec,22,Peinture
+sol,23,Diminution des distances de tuyauteries
+tec,23,Presse
+sol,24,Programme de maintenance performant
+tec,24,Récupération de chaleur
+sol,25,Optimisation des dégivrages des évaporateurs
+tec,25,Séchage
+sol,26,Ecart de température optimisé à l'évaporateur
+tec,26,Torchage
+sol,27,Contrôle du traitement de l'eau des condenseurs de type évaporatif et des tours de refroidissement
+tec,27,Eau
+sol,28,Ecart de température optimisé au condenseur
+tec,28,Assainissement
+sol,29,Nettoyage des condenseurs et autres échangeurs
+tec,29,Eau Chaude Sanitaire
+sol,30,Alimentation correcte en air du condenseur
+tec,30,Eau de procédés
+sol,31,Purge règulière des incondensables
+tec,31,Cogénération
+sol,32,"Réparation des fuites, tuyauteries, et changement des joints"
+tec,32,Cogénération biomasse
+sol,33,Ouverture des portes des zones froides minimisée
+tec,33,Cogénération grande taille
+sol,34,Augmentation de la température d'évaporation
+tec,34,Micro/mini-cogénération
+sol,35,Diminution de la température de condensation
+tec,35,Trigénération
+sol,36,Diminution du taux d'air neuf en période de climatisation
+tec,36,Nouvelles énergies
+tec,37,Biocarburants
+tec,38,Biomasse
+sol,39,Pilotage des compresseurs en cascade et compresseurs de puissances différentes
+tec,39,Eolien
+sol,40,Variation électronique de vitesse sur ventilateurs de soufflage des évaporateurs
+tec,40,Gazéification
+sol,41,Mise en route graduelle des ventilateurs sur les aérocondenseurs
+tec,41,Géothermie
+sol,42,Sous refroidissement optimisé
+tec,42,Hydraulique
+sol,43,Gestion Technique Centralisée (GTC)
+tec,43,Hydrogène / Pile à combustible
+sol,44,Système de régulation des cordons chauffant d'une porte d'armoire verticale à froid négatif
+tec,44,Méthanisation / Biogaz
+sol,45,Désurchauffeur pour récupérer la chaleur de condensation sur un cycle frigorifique.
+tec,45,Solaire photovoltaïque
+sol,46,Récupérateur de chaleur de condensation sur un groupe de production de froid
+tec,46,Solaire thermique
+sol,47,Récupérateur de chaleur sur l'huile des compresseurs
+tec,47,Technologies énergétiques
+sol,48,Machine frigorifique à absorption
+tec,48,Capture et stockage du CO2
+sol,49,Remplacement des détendeurs par une turbine
+tec,49,Déchets
+sol,50,Moteurs correctement dimensionnés
+tec,50,Réseau de chaleur
+sol,51,Dimensionnement des moteurs pour des charges variables
+tec,51,Smart grid
+tec,52,Smart meter
+tec,53,Stockage d'énergie
+sol,54,Moteur à haut rendement
+tec,54,Transport
+sol,55,Transmissions à haute efficacité
+tec,55,Mesure et comptage d’énergie
+sol,56,Contrôle de la qualité de puissance
+tec,56,Audit énergétique
+sol,57,Contrôle de la température ambiante
+tec,57,Incinération de déchets
+sol,58,Remplacement des moteurs plutôt qu'un rebobinage ou une réparation
+tec,58,Traitement mécano biologique
+sol,59,Lubrification correcte des paliers conformément aux spécifications constructeur
+tec,59,Stockage de déchets
+sol,60,Entretien et amélioration des transmissions
+tec,60,Recyclage
+sol,61,Rebobinage de qualité des moteurs
+tec,61,Séchage silo
+sol,62,Ajustement de la tension des courroies et des alignements
+tec,62,Colonne sécheuse
+sol,63,Variateurs de vitesse en remplacement de vannes de laminages.
+tec,63,Dryération
+sol,64,Pompe de surpression pour des hautes pressions ponctuelles
+tec,64,Ventilateur séchoir
+sol,65,"Pompes en parallèle, mise en route en fonction du besoin"
+tec,65,Brûleur
+sol,66,"Matériel de mesure pour contrôler la perte de charge, et les débits des pompes."
+tec,66,Filtres anti poussière
+sol,67,Réduction du besoin de pompage non nécessaire
+tec,67,Chaudière
+sol,68,Fermeture des parties du circuit non utilisées
+tec,68,Récupérateur de chaleur
+sol,69,Purges d'air régulières sur le réseau
+tec,69,Pilotage
+sol,70,Identification et remplacement des pompes surdimensionnées
+tec,70,Suivi des performances
+sol,71,Réparation des fuites
+tec,71,Sous-compteur gaz
+sol,72,"Vérification de l'usure des pompes, et identification des pompes en cavitation."
+tec,72,Ventilation de refroidissement
+sol,73,Usinage du diamètre des roues des pompes centrifuges
+tec,73,Réseau aéraulique
+sol,74,Filtre interne de réduction de frottements dans la pompe (sur les impulseurs)
+tec,74,Ventilateur de refroidissement
+sol,75,Diminution des débits et de la pression de fonctionnement aux  minimum requis
+tec,75,Extracteur d'air
+sol,76,Diminution des pertes de charges
+tec,76,Thermométrie
+sol,77,Diminution des débits by-pass
+tec,77,Silencieux
+sol,78,Consommation de biogaz
+tec,78,Pilotage
+sol,79,Variateur de vitesse sur ventilateur centrifuge pour gestion du débit d'air optimisé
+tec,79,Groupe froid
+sol,80,Ventilateur avec un régime optimal correspond aux besoins spécifiques de l'installation
+tec,80,Ventilation multi-cellules
+sol,81,Fonctionnement du ventilateur d'extraction au fonctionnement du process industriel
+tec,81,Suivi des performances
+sol,82,Diminution des pertes de charges du réseau
+tec,82,Manutention
+sol,83,Ventilateur avec roue à réaction en remplacement d'un ventilateur avec roue à action
+tec,83,Transporteur à chaîne
+sol,84,Remplacement des courroies trapézoïdales par des transmissions directes
+tec,84,Transporteur à bande
+sol,85,Remplacement des courroies trapézoïdales par des courroies plates
+tec,85,Elevateur à godets
+sol,86,Fractionnement de l'installation de ventilation générale en plusieurs unités
+tec,86,Convoyeur à vis
+sol,87,Isolation des gaines lorsque l'air est chaud
+tec,87,Sauterelle
+sol,88,Mesure des valeurs clés de l'installation pour repérer rapidement les anomalies
+tec,88,"Tuyauteries, boîtes 2D, vannes, mobiles"
+sol,89,Nettoyage et dépoussiérage des conduites et remplacement régulierer des filtres
+tec,89,Pendulaire et distributeur révolvers
+sol,90,Diminution des fuites sur le réseau aéraulique en resserrant les joints
+tec,90,Transport pneumatique
+sol,91,Equilibrage du réseau aéraulique
+tec,91,Vis planétaire
+sol,92,Remplacement des ventilateurs surdimensionnés par des moteurs haute efficacité (IE3 par exemple)
+tec,92,Ventilation-vidange
+sol,93,Vérification et diminution des débits d'air si possible
+tec,93,Plancher vibrant ou plancher actif
+sol,94,Epurateur pour réduire le taux d'air neuf en hiver
+tec,94,Reprise chargeur
+sol,95,Récupérateur de chaleur air neuf/air extrait
+tec,95,Transracleur
+tec,96,Fosse de réception
+sol,97,Amélioration de l'isolation des bâtiments
+tec,97,Pilotage
+tec,98,Aspiration et Dépoussiérage
+sol,99,Réduction des infiltrations d'air
+tec,99,Cyclone
+sol,100,Optimisation de la fermeture automatique des portes logistiques
+tec,100,Filtre à manches
+tec,101,Epurateur ou pré-nettoyeur
+sol,102,Réduction des apports de chaleur dans les espaces climatisés
+tec,102,Emotteur
+sol,103,Ne pas chauffer et climatiser en même temps 
+tec,103,Emotteur à tambour rotatif
+sol,104,Pompe à chaleur haute température pour valoriser la vapeur basse pression
+tec,104,Calibreur
+sol,105,Système de chauffage radiant (zones occupées) couplé à une réduction des températures (zones non occupées)
+tec,105,Epurateur-séparateur
+tec,106,Nettoyage
+tec,107,Epurateur ou pré-nettoyeur
+sol,108,Diminution des températures de consignes de chauffage
+tec,108,Emotteur
+sol,109,Maintenance régulière des systèmes de climatisation
+tec,109,Emotteur à tambour rotatif
+sol,110,Free-cooling pour les espaces réfrigérés
+tec,110,Calibreur
+sol,111,Free-chilling par un court d'eau à proximité.
+tec,111,Epurateur-séparateur
+tec,112,Energies marines renouvelables
+sol,113,Compensation de l'énergie réactive
+tec,113,Energie Thermique des Mers - ETM
+sol,114,Filtres anti-harmoniques proche des sources très polluantes
+tec,114,Eolien offshore
+sol,115,Circuits séparés pour les systèmes générateurs d'harmoniques et pour les circuits sensibles aux harmoniques
+tec,115,Hydroliennes
+sol,116,Diamètre double pour les fils neutres près des charges génératrices d'harmoniques
+tec,116,Energie houlomotrice
+sol,117,Séparation des circuits alimentant les gros moteurs pour éviter que les autres appareils subissent les chutes de tensions crées lors de leur démarrage
+tec,117,Energie marémotrice
+sol,118,Dimensionnement des câbles correct et vérifié
+tec,118,Climatisation à l'Eau Naturellement Froide (SWAC)
+tec,119,Machines frigorifiques
+sol,120,Transformateur haut rendement
+tec,120,Contrat
+sol,121,Dimensionnement des transformateurs en adéquation avec l'utilisation
+tec,121,Maintenance
+sol,122,Remplacement de TGBT vétuste
+tec,122,Sensibilisation
+sol,123,Eléments du TGBT faiblement consommateur pour éviter une climatisation du local
+tec,123,Stratégie et politique
+sol,124,Renouvellement d'air du local du transformateur pour son refroidissement
+tec,124,Appareils électriques
+sol,125,Transformateurs à refroidissement par convection naturelle
+tec,125,Gestion et pilotage
+sol,126,"Placement des équipements pour lesquels la demande en courant est élevée, aussi près que possible de la source d'alimentation"
+tec,126,Maintenance
+sol,127,Nettoyage des traversées et les connexions pour limiter les risques de corrosion ou de rouille
+tec,127,Chauffage
+sol,128,Détection des points chauds des câbles et des armoires
+tec,128,Climatisation
+sol,129,Nouveaux onduleur en remplacement des anciens onduleurs
+tec,129,Récupération de chaleur
+sol,130,Vérification l'équilibrage des phases
+tec,130,Ventilation
+sol,131,Vérification du branchement des systèmes monophasés et  triphasés. Le monophasé ne doit pas être branché sur du triphasé
+tec,131,Eclairage naturel
+sol,132,Maintenance annuelle des équipement électrique et du transformateur
+tec,132,Gestion et pilotage
+sol,133,Jeux de barres serrés.
+tec,133,Luminaire
+sol,134,Détection des surcharges
+tec,134,Maintenance
+sol,135,Maintenance du transformateur
+tec,135,Régulation
+sol,136,Arrêt des équipements quand ils ne sont pas nécessaires
+tec,136,Etanchéité et infiltrations
+sol,137,Mainten en ligne les transformateurs fonctionnant à une charge de plus de 40 à 50 % de la puissance nominale
+tec,137,Isolation
+sol,138,Diminution de la tension de court circuit du transformateur
+tec,138,Vitrage
+sol,139,Amélioration du facteur de puissance
+tec,139,Gestion et pilotage
+sol,140,Décalage des appels de puissance
+tec,140,Maintenance
+sol,141,Effacement des creux de tension
+tec,141,Ajustement production/besoin
+sol,142,Stockage permettant de décaler la consommation
+tec,142,Compresseur
+sol,143,Surpresseur et réseau d'air multi pressions pour répondre aux besoins localisés
+tec,143,Filtre
+sol,144,Vannes d’isolement pour couper l’arrivée d’air comprimé des ateliers non utilisés
+tec,144,Gestion et pilotage
+sol,145,Production d'air décentralisée
+tec,145,Maintenance
+sol,146,Démarrage des compresseurs en fonction du besoin
+tec,146,Purgeurs et condensats
+sol,147,"Amélioration du refroidissement, du séchage et de la filtration"
+tec,147,Récupération de chaleur
+sol,148,Optimisation de la régulation
+tec,148,Régulation
+sol,149,Système de régulation élaboré
+tec,149,Réseau
+sol,150,Stockage de l'air comprimé à proximité des utilisations à forte fluctuation
+tec,150,Réservoir tampon
+sol,151,Augmentation de la taille des cuves de stockage
+tec,151,Soufflette
+sol,152,Arrêt des compresseurs quand il n'y a pas de demande d'air
+tec,152,Stockage
+sol,153,Petit compresseur pour la nuit et les week end
+tec,153,Surpresseur
+sol,154,Modernisation du compresseur
+tec,154,Traitement de l'air
+sol,155,Purgeurs automatiques en remplacement de purgeurs manuels
+tec,155,Air de combustion
+sol,156,Remplacement des outils pneumatiques par des outils électriques lorsque c'est possible
+tec,156,Bâche alimentaire
+sol,157,Suppression des soufflettes
+tec,157,Brûleur
+sol,158,Optimisation de la pression des soufflettes
+tec,158,Chaudière
+sol,159,Soufflantes en remplacement de couteaux d'air
+tec,159,Fumées
+sol,160,Campagne de détection des fuites sur un réseau d’air comprimé
+tec,160,Gestion et pilotage
+sol,161,Maintenance préventive
+tec,161,Maintenance
+sol,162,Nettoyage et remplacement plus fréquents des filtres
+tec,162,Récupération de chaleur
+sol,163,Réduction des pertes de charge
+tec,163,Régulation
+sol,164,Vérification des purges de condensats
+tec,164,Traitement de l'eau
+sol,165,Purgeurs de condensats sans pertes d'air
+tec,165,Ajustement production/besoin
+tec,166,Armoire électrique
+sol,167,Participation du personnel dans la recherche de fuite
+tec,167,Condensateur
+sol,168,Filtres à faible perte de charge
+tec,168,Filtre
+sol,169,Placement des filtres en parallèle lors de l'augmentation de la capacité de filtrage
+tec,169,Gestion et pilotage
+sol,170,Diminution de la pression le week end
+tec,170,Maintenance
+sol,171,Aspiration des compresseurs là où l'air est le plus frais
+tec,171,Onduleur
+sol,172,Filtration et séchage au minimum requis
+tec,172,Régulation
+tec,173,Réseau
+sol,174,Ajustement du degré de séchage en fonction de la température extérieure
+tec,174,Stockage
+tec,175,Transformateur
+sol,176,Récupération de la chaleur des compresseurs pour production d'eau chaude
+tec,176,Ajustement production/besoin
+tec,177,Centrale froid
+sol,178,Récupération d'énergie sur compresseur pour regénérer le sécheur à absorption
+tec,178,Chambre froide
+sol,179,Optimisation du dimensionnement des tuyauteries
+tec,179,Condenseur
+sol,180,Diminution des longueurs de tuyauterie
+tec,180,Détendeur
+sol,181,Utilisation de turbines à contre pression à la place des soupapes de réduction de pression
+tec,181,Evaporateur
+sol,182,Isolation des canalisations vapeur non isolées
+tec,182,Gestion et pilotage
+sol,183,Isolation des canalisations vapeur non utilisées
+tec,183,Maintenance
+sol,184,Utilisation de vapeur au minimum nécessaire
+tec,184,Meuble frigorifique
+sol,185,Compteurs pour les débits de vapeur et les débits de condensats
+tec,185,Récupération de chaleur
+sol,186,Dépressurisation du condensat
+tec,186,Régulation
+sol,187,Arrêt des chaudières vapeur lorsqu'elles ne sont pas nécessaires
+tec,187,Réseau
+sol,188,Installation d'un registre d'isolement des gaz de combustion ( coupe-tirage ) des chaudières vapeur
+tec,188,Stockage
+sol,189,Minimisation des pertes dues aux cycles courts des chaudières vapeur
+tec,189,Ajustement production/besoin
+tec,190,Moteur
+sol,191,Programme d'inspection et de réparation des purgeurs
+tec,191,Régulation
+sol,192,Remplacement des purgeurs défaillants bloqués en position ouverte ou fermé
+tec,192,Transmission
+sol,193,Vérification de la dimension des purgeurs et remplacement si nécessaire
+tec,193,Maintenance
+sol,194,Vérification de l'état et le dimensionnement de l'isolation et remplacer celle-ci quand nécessaire
+tec,194,Ajustement production/besoin
+tec,195,Gestion et pilotage
+sol,196,Elimination des fuites de vapeur
+tec,196,Maintenance
+sol,197,Réduction des fuites de condensats
+tec,197,Pompe
+sol,198,Analyse de l'état du réseau vapeur et du réseau des condensats
+tec,198,Pompe de surpression
+sol,199,Analyse thermographique du réseau et de la chaudière
+tec,199,Purgeur
+sol,200,Prévention et élimination des dépôts de tartre sur les surfaces de transfert de chaleur
+tec,200,Régulation
+sol,201,Ajout ou réparation des réfractaires d'une chaudière vapeur
+tec,201,Réseau
+sol,202,Vapeur sèche pour le procédé
+tec,202,Ajustement production/besoin
+sol,203,Diminution du débit vapeur quand cela est possible
+tec,203,Bâche alimentaire
+sol,204,Réduction de la pression quand cela est possible
+tec,204,Chaudière
+sol,205,Amélioration des procédures et des contrôles des chaudières vapeur
+tec,205,Condensat
+sol,206,Chaudière à eau chaude en remplacement d'une chaudière vapeur
+tec,206,Désaérateur
+sol,207,Contrôle séquentiel des chaudières vapeur
+tec,207,Echangeur thermique
+sol,208,Minimisation des purges de la chaudière en améliorant le traitement de l'eau
+tec,208,Gestion et pilotage
+sol,209,Optimisation du taux de mise à l'air libre du desaérateur
+tec,209,Maintenance
+sol,210,Augmentation du rendement de l'économiseur
+tec,210,Purgeur
+sol,211,Récupération du condensat
+tec,211,Récupération de chaleur
+sol,212,Récupération de la chaleur du condensat
+tec,212,Régulation
+sol,213,Préchauffage de l'eau d'alimentation par utilisation de la chaleur procédé
+tec,213,Réseau
+sol,214,Economiseur sur les effluents gazeux de chaudière de production de vapeur
+tec,214,Vanne
+sol,215,Préchauffage de l'eau : utiliser l'eau d'alimentation désaérée pour chauffer le condensat retournant à la chaudière
+tec,215,Ajustement production/besoin
+sol,216,Préchauffage de l'eau d'alimentation en condensant la vapeur utilisée pour la revaporisation et en chauffant l'eau alimentant le desaérateur au moyen d'un échangeur
+tec,216,Gestion et pilotage
+sol,217,Réemploi de la vapeur de détente 
+tec,217,Maintenance
+sol,218,Récupération de l'énergie provenant des purges de vapeur
+tec,218,Récupération de chaleur
+sol,219,Turbine de détente pour récupérer le contenu énergétique de gaz sous pression
+tec,219,Régulation
+tec,220,Réseau
+sol,221,Adaptation de l'éclairage artificiel au besoin réel de chaque zone
+tec,221,Ventilateur
+sol,222,Gradation de l'éclairage en fonction de la luminosité ambiante par des ballasts électroniques de catégorie A1
+tec,222,Gaz industriel
+sol,223,Remplacement des lampes incandescentes par des fluo-compactes (basse consommations)
+tec,223,Gestion et pilotage
+tec,224,Maintenance
+sol,225,Adaptateur T5 sur luminaire T8 existant
+tec,225,Air de combustion
+sol,226,Tubes à LED pour l'éclairage intérieur en remplacement de tubes T8
+tec,226,Brûleur
+sol,227,Tube fluorescent T5 à douilles G13 pouvant être installés directement sur des luminaires T8
+tec,227,Four
+sol,228,Gradation de l'éclairage en fonction de la luminosité ambiante par des régulateurs sur lampes à décharge
+tec,228,Fumées
+sol,229,Interrupteur crépusculaire
+tec,229,Gestion et pilotage
+sol,230,Horloge astronomique
+tec,230,Maintenance
+sol,231,Système de télésurveillance et de télégestion
+tec,231,Récupération de chaleur
+sol,232,Nettoyage périodique des luminaires
+tec,232,Régulation
+sol,233,Suppression des lampes inutiles dès que possible
+tec,233,Cabine de peinture
+sol,234,Débranchement des ballast électroniques inutilisés
+tec,234,Gestion et pilotage
+sol,235,Réduction de l'éclairage général et renforcement de l'éclairage local des postes de travail
+tec,235,Maintenance
+sol,236,"Eclairage naturel : puits de jour, lanterneaux d'éclairage zénithal"
+tec,236,Récupération de chaleur
+tec,237,Chauffage
+tec,238,Circuit de puissance
+sol,239,Consignes au personnel pour l'extinction des lumières des pièces non occupées ou des couloirs
+tec,239,Gestion et pilotage
+sol,240,Cogénération : autoproduction de son électricité ou revente au réseau
+tec,240,Maintenance
+sol,241,Révision du contrat électrique et adaptation de la puissance souscrite
+tec,241,Refroidissement
+sol,242,Optimisation du contrat d'électricité règlementé
+tec,242,Production
+sol,243,Démarreur sur les moteurs électriques
+tec,243,Réseau
+tec,244,Production
+sol,245,"Mesure, comptage et sous comptage d'énergie des unités consommatrices"
+tec,245,Réseau
+sol,246,Récupération de la chaleur perdue des gaz de combustion
+tec,246,Production
+tec,247,Réseau
+sol,248,Système de contrôle des durées d'allumage des brûleurs
+tec,248,Production
+sol,249,Moteur à haut rendement label IE2 (EFF1)
+tec,249,Réseau
+sol,250,Isolation des combles ou de toiture
+tec,250,Biocarburant
+sol,251,Isolation des murs par l'intérieur
+tec,251,Collecte
+sol,252,Isolation d'un plancher
+tec,252,Transformation
+sol,253,Fenêtres à double vitrage avec isolation renforcée à l'argon
+tec,253,Valorisation
+sol,254,Isolation des murs par l'extérieur
+tec,254,Chaufferie
+sol,255,Isolation des toitures terrasses et couvertures de faible pente
+tec,255,Collecte
+sol,256,Sensibilisation du personnel sur le coût élevé du chauffage
+tec,256,Stockage
+sol,257,Sensibilisation du personnel sur le coût élevé de la production de vapeur
+tec,257,Transformation
+sol,258,Sensibilisation du personnel sur le coût élevé de la production de l'air comprimé
+tec,258,Valorisation
+sol,259,Sensibilisation du personnel sur le coût élevé de la production de froid
+tec,259,Production
+sol,260,Sensibilisation du personnel sur le coût élevé du chauffage et de la climatisation
+tec,260,Valorisation
+sol,261,Programme de maintenance pour les portes et les fenêtres
+tec,261,Collecte
+sol,262,Vérification de la présence de traces d'humidité
+tec,262,Digestion
+sol,263,Identification des conduits ou cheminées inutiles
+tec,263,Transformation
+sol,264,Arrêt des ventilateurs de rafraîchissement en hiver
+tec,264,Valorisation
+sol,265,Asservissement du chauffage à l'ouverture des portes et fenêtres
+tec,265,Batterie
+sol,266,Séparation des parties chauffées et non chauffées du bâtiment
+tec,266,Capteur
+sol,267,Réduction de l'air entrant au niveau des quais d'expéditions
+tec,267,Onduleur
+sol,268,Chauffage efficace des locaux de grande hauteur
+tec,268,Valorisation
+sol,269,Isolation des parois verticales entre les ateliers
+tec,269,Capteur
+sol,270,Protections solaires pour l'été
+tec,270,Chaudière d'appoint
+sol,271,Faux plafonds pour limiter le volume chauffé
+tec,271,Régulation
+sol,272,Vérification de la présence de fuites d'eau
+tec,272,Stockage
+sol,273,Contrôle régulier des chaudières vapeur
+tec,273,Capture
+sol,274,Chaudière de type basse température
+tec,274,Stockage
+sol,275,Sensibilisation du personnel de production pour signaler immédiatement au service Entretien les fuites constatées
+tec,275,Traitement
+sol,276,Chaudière à condensation
+tec,276,Transport
+sol,277,Plancher chauffant basse température
+tec,277,Tri
+tec,278,Valorisation
+sol,279,Réglage fixe des thermostats et des robinets thermostatiques
+tec,279,Traitement
+sol,280,Vérification et optimisation des consignes de chauffage en fonction des locaux et de leur utilisation
+tec,280,Ajustement production/besoin
+tec,281,Production
+sol,282,Prise en compte les considérations du personnel sur les conditions d'ambiance dans lesquelles ils travaillent
+tec,282,Réseau
+sol,283,Nettoyage régulier des filtres et des surfaces de chauffe
+tec,283,Covoiturage
+tec,284,Ecoconduite
+sol,285,Dégagement des radiateurs et des surfaces de chauffe
+tec,285,Gestion et pilotage
+sol,286,Vérification des robinets et des soupapes de sécurité
+tec,286,Maintenance
+sol,287,Sensibilisation du personnel sur l'ouverture des fenêtres pendant la période de chauffe
+tec,287,Matériel roulant
+tec,288,Report modal
+tec,289,Indicateurs et tableau de bord
+sol,290,Radiateur à chaleur douce pour un chauffage central à combustible
+sol,291,Isolation d'un réseau hydraulique de chauffage
+sol,292,Systèmes de chauffage rayonnant couplés à des thermostats
+sol,293,Remplacement des thermostats mécaniques par des thermostats électroniques
+sol,294,Systèmes de chauffage rayonnant couplés à une GTC
+sol,295,Chauffage et la climatisation adaptés à l'occupation des locaux
+sol,296,Chaufferie biomasse dans le tertiaire
+sol,297,Programmateur d'intermittence sur une chaudière existante pour un chauffage central à combustible
+sol,298,Optimiseur de relance pour chauffage central à combustible
+sol,299,Cahier de maintenance à jour
+sol,300,Plans techniques facilement accessibles
+sol,301,Documents informatifs sur le matériel sujet à des réglages simples facilement accessible
+sol,302,Vérification du bon état de la ventilation
+sol,304,Utilisation de la plus petite chaudière quand les besoins sont les plus faibles pour maximiser la charge 
+sol,305,Arrêt des chaudières dédiées au chauffage des locaux en été 
+sol,306,Vérification de la régulation lorsque les chaudières sont à l'arrêt
+sol,307,Adoucissement de l'eau de ville du circuit chauffage
+sol,308,Démarrage en cascade des chaudières
+sol,309,Professionnel pour l'entretien annuel des chaudières
+sol,310,Contrôle des performances des chaudières
+sol,311,Fonctionnement des chaudières en autocontrôle ou en télésurveillance
+sol,312,Utilisation optimale de la chaudière
+sol,314,Vérification du débit d'eau chaude sanitaire
+sol,315,Société de maintenance spécialisée sous contrat pour l'entretien
+sol,316,Vérification du contrat de maintenance afin de voir s'il est adapté
+sol,317,Vérification de la circulation dans les canalisations
+sol,319,Vérification des débits de circulation primaire et secondaire
+sol,320,Amélioration de l'isolation des chaudières
+sol,321,Isolation du réseau de distribution de chaleur
+sol,322,Récupérateur de chaleur à condensation
+sol,323,Séparation de la production d'eau chaude et de chauffage
+sol,324,Réaction face aux pannes répétées
+sol,325,Récupérateur sur les fumées pour préchauffer l’air comburant
+sol,327,Analyse de la pertinence du fluide caloporteur
+sol,328,Fonctionnement du moteur à pleine charge
+sol,329,Rénovation du poste éclairage par l'utilisation de lampes ou ballasts de meilleure efficacité
+sol,330,Elimination des fuites dans les lignes et vannes de gaz d'inertage et d'air comprimé
+sol,331,Moteur d'efficacité standard label IE1 (EFF2)
+sol,332,Réduction de la pression de l'air comprimé au minimum requis
+sol,333,Isolation des équipements qui ne le sont pas
+sol,334,Détecteurs de présence
+sol,335,Utilisation d'une source lumineuse plus efficace
+sol,336,Analyse des effluents gazeux pour ajuster correctement le ratio air/combustible
+sol,337,Programme de maintenance préventive
+sol,338,Maintien des équipements propres
+sol,339,Réparation des fuites dans les lignes et les vannes
+sol,340,Maintenance sur les machines afin d'en réduire les pertes
+sol,341,Réparation des fuites dans les lignes et vannes d'eau
+sol,342,Formation du personnel pour éviter les pertes de temps et de production
+sol,343,Plan de maintenance des brûleurs des chaudières
+sol,344,Augmentation du diamètre des câbles pour diminuer des pertes par effet Joule
+sol,345,Vérification de la puissance réactive
+sol,346,Minimisation du fonctionnement des moteurs au ralenti ou à faible charge
+sol,347,Réduction de la température de combustion
+sol,348,Augmentation du transfert de chaleur vers le procédé
+sol,349,Récupération de la chaleur des fumées pour production d'eau chaude et génération de froid
+sol,350,Préchauffeur d'air pour chaudière
+sol,351,Préchauffage du combustible
+sol,352,Nettoyage des surfaces de transfert de chaleur
+sol,353,Vérification de la correspondance entre la sortie de la combustion et les exigences en chauffage
+sol,354,Repositionnement de l'admission d'air du brûleur au plafond de la chaufferie
+sol,355,Brûleurs récupératifs et régénératifs
+sol,356,Brûleur haut rendement micromodulant sur une chaudière de production de vapeur ou eau surchauffée
+sol,357,Réduction du débit massique des gaz de combustion par une réduction de l'excès d'air
+sol,358,Régulation et contrôle des brûleurs
+sol,359,Réflexion sur le choix du combustible
+sol,360,Oxycombustion
+sol,361,Réduction des pertes de chaleur par les ouvertures du four
+sol,364,Inspection et vérification de l'état de l'isolation
+sol,365,Sensibilisation sur le coûts d'un purgeur fuyard
+sol,366,Vérification des joints d'étanchéité
+sol,367,"Calorifugeage des vannes, des robinets et des postes de détente sur un réseau vapeur"
+sol,368,Chauffe eau solaire collectif (CESC)
+sol,370,Pompe à chaleur de type eau/eau
+sol,371,Pompe à chaleur de type air/eau
+sol,373,Gestion technique d'un bâtiment (GTB)
+sol,374,Programmateur d'intermittence pour un chauffage par radiateurs électriques
+sol,376,Isolation d'un réseau d'eau chaude sanitaire existant
+sol,377,Remplacement d'un climatiseur existant par un climatiseur fixe de classe A
+sol,378,Programmateur d'intermittence pour les systèmes de climatisation
+sol,379,Ventilation mécanique modulée proportionnelle
+sol,380,Ventilation mécanique modulée à détection de présence
+sol,381,Ventilation mécanique contrôlée simple flux autoréglable
+sol,382,Ventilation mécanique contrôlée double flux avec échangeur
+sol,384,Raccordement à un réseau de chaleur
+sol,385,Mini-cogénération sans obligation d'achat
+sol,386,Circulateur à rotor noyé de classe A
+sol,388,Unité autonome de traitement d'air en toiture à haute performance énergétique
+sol,389,Groupe de production d'eau glacée avec condenseur sur eau
+sol,390,Echangeur air neuf / air extrait sur centrale de traitement d'air (DOM)
+sol,391,Accumulateur d'eau chaude à condensation
+sol,392,Système de climatisation centralisée de type DRV
+sol,393,Analyse de la qualité et de la conception de l'éclairage
+sol,394,Gestion de l'éclairage
+sol,395,Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option A
+sol,396,Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option B
+sol,397,Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option C
+sol,398,Evaluation de l'efficacité en effectuant des mesures et vérifications : M&V - Option D
+sol,399,Horloge sur un dispositif d'éclairage
+sol,400,Lampes à iodures métalliques à brûleur céramique en remplacement de lampe à vapeur de mercure
+sol,403,Nappe d'éclairage fluorescent en tube de typeT5
+sol,404,Système de mise au repos automatique de blocs autonomes d'éclairage de sécurité (BAES)
+sol,405,Porte non chauffante à haute performance d'isolation pour armoire horizontale à froid négatif
+sol,406,Lampe fluo-compacte de classe A
+sol,407,Participation du personnel à l'extinction de l'éclairage en période d'inoccupation
+sol,408,Etiquette pour l'identification des interrupteurs
+sol,411,Extinction de la lumière des zones souvent inoccupées
+sol,412,Extinction des luminaires extérieurs quand ils ne sont pas nécessaires
+sol,414,Caches adéquats pour les luminaires
+sol,415,Programme d'entretien ou plan de remplacement de l'éclairage
+sol,416,Programmateurs pour le contrôle de l'allumage
+sol,418,Luminaire avec réflecteur pour l'éclairage.
+sol,419,Lampes à induction dans les zones difficile d'accès.
+sol,420,Suppression des ampoules à incandescences
+sol,421,Commandes individualisées de l'éclairage à distance
+sol,422,Coupe-veille automatique par détection d'utilisation des appareils raccordés
+sol,423,Coupe-veille en hébergement relié au système d'accès.
+sol,424,Transformateur à haut rendement pour l'alimentation basse tension d'un site tertiaire
+sol,425,Système de pilotage par intermittence des centrales de traitement d'air (DOM)
+sol,426,Contrat de Performance Energétique (CPE)
+sol,427,Connaissance approfondie de la répartition de la consommation d'énergie du site
+sol,428,Politique environnementale
+sol,429,Comité énergie interne au site pour piloter la politique énergétique du site.
+sol,430,Création d'un poste de responsable énergie
+sol,431,Concurrence des fournisseurs d'énergies
+sol,432,Achat d'énergie mutualisé
+sol,433,Vérification des factures d'énergie
+sol,435,Liste de fournisseur d'énergie potentiels
+sol,437,Démagnétiseur sur les fours
+sol,439,Procédure pour relever les compteurs
+sol,440,Analyse des irrégularités du profil de production
+sol,441,"Mesure des consommations énergétiques la nuit durant le tarif ""heures creuses"""
+sol,442,Optimisation des achats selon la variation du prix du fioul
+sol,443,Utilisation des DJU pour analyser le chauffage.
+sol,444,Suivi des performances de production
+sol,445,Comparaison des performances énergétiques avec d'autres sites industriels
+sol,446,Objectifs chiffrés de réduction de consommation d'énergie
+sol,447,Motivation du personnel pour trouver des idées d'économies d'énergie réalisables.
+sol,448,Bibliothèque des documentations constructeurs relatives aux matériels énergétiques de l'entreprise
+sol,449,Formation du personnel à l'utilisation rationnelle de l'énergie
+sol,450,Communication sur les bénéfices d'une politique d'économie d'énergie
+sol,451,Unité de transport intermodal (UTI)
+sol,452,Pneus d'autobus à basse résistance au roulement
+sol,453,Télématique embarquée pour le suivi de la conduite d'un véhicule
+sol,454,Lubrifiant économiseur d'énergie
+sol,455,Suivi des consommations de carburant grâce à des cartes privatives
+sol,456,Pneus de véhicules légers à basse résistance au roulement.
+sol,457,Unité de transport intermodal pour le transport combiné fleuve-route
+sol,458,Wagon d'autoroute ferroviaire
+sol,459,Acquisition d'une barge fluviale
+sol,460,Acquisition d'un automoteur fluvial
+sol,461,"Groupe frigorifique autonome à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques"
+sol,462,"Groupe frigorifique non autonome à haute efficacité énergétique pour camions, semi remorques, remorques et caisses mobiles frigorifiques"
+sol,463,Lubrifiant économiseur d'énergie pour des véhicules de transport de personnes ou de marchandises
+sol,464,Formation d'un chauffeur à l'éco-conduite
+sol,466,Covoiturage domicile -travail
+sol,468,Responsable de parc de véhicules de l'entreprise
+sol,469,Entretien régulier des véhicules
+sol,470,Vérification régulière de l'usure et la pression des pneus
+sol,471,Analyse des différents types de déplacements professionnels des salariés
+sol,472,Véhicules adaptés aux déplacements
+sol,473,Plan de mobilité ou un plan de déplacement entreprise
+sol,474,Encouragement à l'usage des transports en commun
+sol,475,Suppression des poids inutiles des véhicules quand cela est possible
+sol,476,Plan de livraison et système de gestion de remplissage des véhicules
+sol,478,Réduction des déplacements professionnels
+sol,479,Prise en compte la consommation de carburant comme un facteur déterminant dans l'achat d'un véhicule
+sol,480,Arrêt des moteurs lors des pauses
+sol,481,Véhicule électrique
+sol,482,Etude d'optimisation de l'usage de la chaleur au sein des procédés
+sol,483,Optimisation de la régulation des procédés thermiques et des températures de veille
+sol,484,Vérification régulière de l'état général des process thermiques
+sol,485,Contrôle de la performance des échangeurs
+sol,486,Vérification de l'adéquation des cycles thermiques avec les produits
+sol,487,Formation du personnel à quantifier les coûts énergétiques
+sol,488,Comparaison des process actuels avec des process performants
+sol,489,"Infrarouges pour chauffer, cuire, sécher, gélifier, coller de manière directe et localisé"
+sol,490,Micro-ondes et hautes fréquences pour chauffer les produits.
+sol,491,"Ultraviolets pour chauffer, cuire, sécher, gélifier, coller de manière directe et localisé"
+sol,492,Récupération de l'énergie des buées lors du séchage de la vapeur
+sol,494,Prétraitement mécanique pour les produits à forte teneur en eau.
+sol,495,Concentration d'un liquide avant de le sécher
+sol,496,Chauffage par induction
+sol,497,Bains de traitements chauffés par TIC (tubes immergés compact)
+sol,500,Optimisation et vérification des équipements
+sol,502,Profil de la demande d'air comprimé
+sol,503,Pompes à haut rendement
+sol,504,Arrêt des ventilateurs inutiles
+sol,505,Captages spécifiques pour les pollutions localisées à la place d'un système de ventilation générale
+sol,506,Recharge en fluide frigorigène si nécessaire
+sol,507,Régulation du débit du fluide frigoporteur
+sol,508,Arrêt des moteurs inutiles
+sol,509,Identification des systèmes inefficaces
+sol,510,Dimensionnement correcte de la roue à aubes
+sol,511,Ajustement des bagues d'étanchéité
+sol,512,Arrêt des pompes inutiles
+sol,513,Gestion quotidienne du fonctionnement
+sol,514,Réactance en série pour limiter les harmoniques
+sol,515,Résoudre les problèmes liés aux coupures de courant
+sol,516,Détection des fuites éventuelles de diélectrique
+sol,518,Test d'isolation électrique
+sol,529,Lave-linge domestique de classe A+
+sol,530,Réfrigérateur domestique performant
+sol,531,Luminaire avec ballast électronique pour parties communes
+sol,534,Formation des acteurs professionnels du secteur du bâtiment aux économies d’énergie
+sol,535,Ingénierie d'accompagnement des entreprises et artisans du bâtiment pour réaliser les objectifs énergétiques du Grenelle de l'environnement
+sol,539,Chauffe-Eau Solaire Individuel  (CESI)
+sol,543,Chaudière individuelle à condensation au gaz
+sol,544,Chaudière collective à condensation
+sol,545,Chaudière collective à condensation avec contrat assurant le maintien du rendement énergétique de la chaudière
+sol,546,Chaudière individuelle de type Basse température
+sol,547,Chaudière collective de type basse température
+sol,548,Chaudière collective de type basse température avec contrat assurant le maintien du rendement énergétique de la chaudière
+sol,550,Régulation par sonde de température extérieure
+sol,551,Appareil indépendant de chauffage au bois
+sol,552,Chaudière biomasse individuelle
+sol,553,Chaufferie biomasse
+sol,554,Chaufferie biomasse avec contrat assurant le maintien du rendement énergétique de la chaufferie
+sol,556,Plancher rayonnant électrique avec dispositif de réglage automatique
+sol,557,Robinet thermostatique sur radiateurs
+sol,558,Programmateur d'intermittence pour un chauffage individuel à combustible
+sol,561,Système de comptage individuel d'énergie de chauffage
+sol,562,Chaudière individuelle à condensation au fioul
+sol,567,"Ventilation mécanique contrôlée, simple flux hygroréglable"
+sol,568,Plafond rayonnant électrique
+sol,569,Pompe à chaleur de type air/air
+sol,570,Surperformance énergétique pour un bâtiment neuf avec label de haute performance énergétique
+sol,572,Caisson de ventilation mécanique contrôlée (VMC) à consommation réduite
+sol,573,Ventilation naturelle hygroréglable
+sol,575,Programmateur d'intermittence pour un chauffage individuel avec pompe à chaleur existant
+sol,578,Pompe équipée d'un système de variation électronique de vitesse
+sol,582,Système Solaire Combiné (SSC)
+sol,583,Chaudière individuelle de type micro-cogénération à moteur Stirling
+sol,585,Système de production d'eau chaude sanitaire collective de type pompe à chaleur sur capteur solaire non vitré
+sol,586,Systèmes hydro-économes
+sol,697,Lampes à sodium basse pression pour éclairage extérieur en remplacement de lampe à vapeur de mercure
+sol,698,Bloc autonome d'éclairage de sécurité à faible consommation
+sol,701,Tube fluorescent de type T5
+sol,705,Optimisation du traitement d'eau
+sol,706,Identification du phénomène de primage
+sol,707,isolation de la bâche alimentaire
+sol,708,Système de contrôle/commande de la combustion
+sol,709,Ratio consommation d'énergie par tonne de vapeur
+sol,710,Réinjection des condensats dans la bâche alimentaire avec une légère surpression
+sol,711,Echangeur de récupération de chaleur
+sol,712,Décentralisation de la production de vapeur
+sol,713,Analyse de la répartition des consommations électriques
+sol,714,Arrêt des équipements non-utilisés
+sol,715,Equipements munis du label Energy Star
+sol,716,Recharge des batteries d'appareils de manutention la nuit
+sol,717,Régulateur pour extinction automatiques des appareils
+sol,718,Contrainte d’efficacité énergétique intégrée lors des travaux réglementaires
+sol,719,Système de Variation Electronique de Vitesse (VEV) sur un moteur électrique
+sol,720,Récupérateur de chaleur sur un compresseur d'air comprimé (hors chauffage des locaux)
+sol,721,Transformateur à haut rendement pour l'alimentation basse tension d'un site industriel
+sol,722,Moto-variateur synchrone à aimants permanents
+sol,723,Régulation pour une basse pression flottante
+sol,724,Haute pression flottante
+sol,725,Brûleur avec dispositif de récupération de chaleur sur four industriel
+sol,726,Système de régulation de tension en éclairage extérieur
+sol,727,Système de maîtrise de la puissance réactive en éclairage extérieur
+sol,728,Système de variation de puissance en éclairage extérieur
+sol,729,Luminaire d'éclairage extérieur performant
+sol,731,Transformateur à haut rendement pour la distribution publique d'électricité
+sol,732,Production de chaleur renouvelables ou de récupération en réseau
+sol,733,Injection de mousse isolante dans un caniveau de réseau de chaleur.
+sol,734,Réhabilitation d'un poste de livraison de chaleur
+sol,736,"Ballon de stockage d'eau chaude de type ""Open Buffer"""
+sol,737,Ballon de stockage d'eau chaude pour les serres agricoles
+sol,738,Pré-refroidisseur de lait
+sol,739,Ordinateur climatique avec module d'intégration de température pour l'agriculture
+sol,742,Contrôle du moteur d'un tracteur
+sol,743,Inventaire et évaluation des systèmes de pompage
+sol,744,Contrat EJP
+sol,745,"Comparaison par rapport à une consommation de référence, et partage des gains aux salariés"
+sol,746,Couleurs claires pour les murs
+sol,748,Arrêt des appareils électriques
+sol,749,Dégivrage du réfrigérateur
+sol,750,Fermeture des robinets et identification des fuites
+sol,752,Entretien du chauffe eau
+sol,753,Manipulation des ampoules par le culot pour préserver leur durée de vie
+sol,754,Programmation des lessives aux heures économiques
+sol,755,Rincage des plats les plus sales sous l'eau froide avant de les mettre au lave vaisselle
+sol,756,Congélateur installé dans une zone sèche
+sol,757,Diminution du temps d'ouverture des portes du réfrigérateur et congélateur
+sol,758,Réglage des équipements frigorifiques à une température optimale
+sol,759,Préférence des douches plutôt que des bains afin d'économiser l'eau.
+sol,760,Vérification des fuites au niveau des chasses d'eau
+sol,761,Utilisation d'une chasse d'eau à double commande
+sol,763,Entretien de la chaudière individuelle régulièrement
+sol,765,Programmation du chauffage en fonction de la présence
+sol,766,Nettoyage des convecteurs
+sol,767,Fermeture des rideaux et volets la nuit
+sol,768,Amélioration de l'isolation de fours à haute température
+sol,769,Pré-séchage la matière humide par énergie solaire.
+sol,770,Utilisation des lignes de production à leur capacité maximale.
+sol,771,Récupération de la chaleur de l'acier qui refroidit
+sol,772,Logiciel embarqué de gestion des déplacements
+sol,773,Cartographie des fours
+sol,774,Détendeurs électroniques pour optimiser la régulation frigorifique
+sol,776,Isolation des process chauds
+sol,777,Brûleurs haut rendement en remplacement de brûleurs vétustes
+sol,778,Dimensionnement optimum des compresseurs et remplacement des équipements surdimensionnés.
+sol,779,Diagnostic complet de la production et du réseau d'air comprimé
+sol,780,Récupération de la chaleur des procédés industriels
+sol,781,Réduction catalytique du N2O dans des usines d'acide nitrique
+sol,782,Destruction de N2O rejeté lors de la production de N2O applicable aux installations existantes
+sol,783,"Optimisation de la matière sèche, en amont du process de déshydratation – andainage"
+sol,784,Chaufferie biomasse dans l'industrie en remplacement de chaudières à énergie fossile
+sol,785,Destruction de N2O émis par la production d’acide adipique
+sol,786,Thermo-oxydation des Gaz à Effet de Serre effluents gazeux des installations de production industrielle
+sol,787,Thermo-oxydation du prototype d’azote (N2O) dans les effluents gazeux des installations existantes de production industrielle
+sol,789,Optimisation de la maintenance des moteurs
+sol,790,Optimisation de l'efficacité des tours de refroidissement
+sol,791,Régulation de débit par variation électronique de vitesse asservie à la pression
+sol,793,Diminution de la surchauffe
+sol,794,Maintenance des pompes et réseaux d'eau
+sol,796,Campagne d'analyse de l'énergie réactive par bâtiment
+sol,797,Suivi de la facturation d’électricité
+sol,798,Récupération de l'excès de vapeur
+sol,799,Réparation du four pour éliminer les entrées d'air sauvages
+sol,800,Récupération de chaleur pour alimenter un réseau de chaleur urbain
+sol,801,Création d'une unité de recyclage et de valorisation des appareils frigorifiques ménagers
+sol,802,Développement d'une fonte à faible résistivité
+sol,803,Analyse du besoin en froid des procédés pour identifier la répartition des besoins
+sol,804,Valorisation des rejets pour créer du biogaz par méthanisation
+sol,805,Regroupement de plusieurs sites pour réduire les flux de camions
+sol,806,Bande transporteuse entre l'arrivée des matières et la zone de rangement.
+sol,807,Dispositif de visioconférence sur les sites du groupe
+sol,808,Fermeture isolante
+sol,810,Chauffe-eau thermodynamique individuel à accumulation
+sol,812,Pompe à chaleur collective à absorption de type air/eau ou eau/eau
+sol,813,Chaudière de type basse température couplée à une ventilation mécanique contrôlée pilotée par la chaudière
+sol,814,Chauffe-eau électrique à accumulation de catégorie C
+sol,817,Porte pour fermeture des meubles frigorifiques de vente à température positive
+sol,818,Réduction des apports solaires par la toiture
+sol,820,Pompe à chaleur à absorption de type air/eau ou eau/eau
+sol,821,Pompe à chaleur à moteur gaz de type air/eau
+sol,823,Ventilo-convecteur haute performance
+sol,824,Dé-stratificateur d'air
+sol,826,Evaporateur performant
+sol,827,Gonflage des pneumatiques pour véhicules légers et véhicules utilitaires légers
+sol,828,Décreusage des pneumatiques de poids lourds
+sol,829,Changement de catégorie de consommation des véhicules de flottes professionnelles
+sol,831,Récupérateur de chaleur sur un tank à lait
+sol,832,Chaufferie biomasse dans l'agriculture
+sol,833,Pompe à chaleur de type eau/eau ou air/eau dans l'agriculture
+sol,834,Basse pression flottante dans l'agriculture
+sol,835,Haute pression flottante dans l'agriculture
+sol,836,Double écran thermique pour les serres agricoles
+sol,839,Tube fluorescent haut rendement T8 sur un dispositif d'éclairage
+sol,840,"Formation de chefs d'entreprises, salariés et artisans du bâtiments aux économies d'énergie"
+sol,844,Ventilation mécanique répartie
+sol,845,Panneaux rayonnants électriques ou radiateurs à régulation électronique
+sol,846,Lampe fluo-compacte avec globe de classe B
+sol,847,Remplacement de lampes à vapeur de mercure par des technologies performantes
+sol,849,GTC qui contrôle l'éclairage intérieur et extérieur
+sol,850,Remplacement des luminaires T8 par des luminaires T5 avec ballast électronique intégré
+sol,851,Remplacement des lampes à vapeur de mercure à ballast magnétique par des tubes fluorescents T5
+sol,852,Remplacement des anciens équipements par des lampes plus efficaces et de puissances inférieures
+sol,853,Remplacement des câbles électriques mal dimensionnés
+sol,854,Réglage de la luminosité avec une télécommande
+sol,855,Ballasts électroniques de catégorie A2 en remplacement de ballasts ferromagnétiques
+sol,856,Ajout d'interrupteurs pour contrôler l'allumage par zones dans une pièce
+sol,857,Gestion Technique Centralisée (GTC) sur les centrales de traitement d'air
+sol,858,Panneaux photovoltaïques pour alimenter les systèmes d'éclairage
+sol,859,Lampes à sodium haute pression pour éclairage extérieur en remplacement de lampe à vapeur de mercure
+sol,861,Lampes à décharge avec réduction de la tension d'allumage intégrée
+sol,863,LED pour la signalisation tricolore
+sol,864,Vanne d'isolation sur l'arrivée vapeur
+sol,865,Dégazeurs thermiques sur chaudière vapeur
+sol,866,Révision du système frigorifique
+sol,867,Gestion centralisée de la production frigorifique
+sol,868,Compteurs pour suivre la consommation d'eau chaude
+sol,869,Stockage pour récupération de l'eau perdue
+sol,870,Réutilisation du CO2 émis par les process pour injection dans procédé de fermentation
+sol,871,Compresseurs frigorifiques de type Scroll
+sol,872,Délestage des équipements électriques
+sol,873,Brûleurs de gaz naturel à veine d'air en remplacement des échangeurs de vapeur
+sol,874,Création d'une installation de prétraitement des effluents
+sol,875,Brûleur bas-NOX
+sol,876,Arrêt des pompes quand les process ne tournent plus
+sol,877,Replacement du brûleur et des tubes de l'échangeur du four
+sol,878,Combustible de meilleure qualité
+sol,879,Procédures d'arrêt des fours électriques optimisées
+sol,881,Repositionement du bruleur pour être assuré qu'il couvre la totalité de la chambre de combustion.
+sol,882,Amélioration de la conduite du procédé de fours pour acierie et aluminium
+sol,883,Récupération de chaleur sur un four à arc électrique
+sol,884,Hottes au dessus des fours pour récupérer la chaleur
+sol,885,Optimisation de la consommation de nitrogène dans la production d'acier
+sol,886,Optimisation de la consommation d'oxygène dans la production d'acier
+sol,887,Compteur d'eau pour suivre et comprendre les consommations
+sol,888,Technologie de nettoyage performante adaptée au procédé
+sol,889,Vérification le dimensionnement et l'utilisation des procédés en comparaison du besoin réel
+sol,890,Augmentation de la température de consigne de la boucle d'eau de refroidissement
+sol,891,Variation de l'angle des pales du système tournant
+sol,892,Optimisation de la gestion des circuits électriques
+sol,893,Création d'un poste de gestionnaire de flux
+sol,894,Identification puis remplacement des thermostats défectueux
+sol,896,Identification des sources de déperditions thermiques du bâtiment
+sol,897,Analyse thermographique aérienne
+sol,898,Unité de gazéification du bois
+sol,899,Production de Biodiesel
+sol,900,Véhicule fonctionnant au biogaz
+sol,901,Démarche HQE
+sol,902,Vanne thermo régulée sur un réseau d'eau glacée
+sol,903,Vérification et diminution si possible les températures de chauffe des process
+sol,904,Remplacement du système de régulation sur le réseau d'eau chaude sanitaire
+sol,905,Limiteur de débit sur les douches
+sol,906,Réglage manuel des climatisations
+sol,907,"Dans les hôtels, remplissage prioritaire des chambres au nord en été et des chambres au sud en hiver"
+sol,909,Chaufferie collective à gaz pour réseau d'eau chaude sanitaire
+sol,910,Minuteurs sur luminaires intérieurs
+sol,912,Minuteurs sur luminaires extérieurs
+sol,913,Installation d'une éolienne
+sol,914,Panneau solaire photovoltaïque
+sol,915,Puits canadien pour préchauffer l'air
+sol,916,Production d'hydrogène pour stocker l'électricité
+sol,917,Isolation des fourreaux
+sol,918,Optimisation de la température du circuit de refroidissement des presses
+sol,919,Presses à injecter tout-électrique en remplacement de presses à injecter hydrauliques
+sol,920,Récupération de chaleur sur l'épurateur des fours pour préchauffer la matière entrante
+sol,921,Certification HQE
+sol,922,Récupération de chaleur des compresseurs pour réchauffer le sol sous la chambre froide.
+sol,923,Saumure pour le dégivrage des évaporateurs chauffée par récupération de chaleur
+sol,924,Variation de la courbe de chauffe en fonction de la température extérieure
+sol,925,Electrovanne pour l'optimisation de la régulation
+sol,926,Electrovannes sur les soufflettes d'air comprimé
+sol,928,Rafraichisseur d'air à évaporation directe
+sol,929,Bouclage du réseau d'air comprimé
+sol,930,Optimisation de la quantité de produits à sécher
+sol,931,Utilisation d'un four à sole tournante équipé de brûleurs régénératifs
+sol,932,Sensibilisation du personnel aux coûts de l'énergie
+sol,933,Production au gaz semi-instantanée
+sol,935,Four à oxycombustion
+sol,936,Remplacement du four existant par un four plus performant
+sol,937,Récupérateur de chaleur sur compresseur d'air comprimé pour le chauffage de locaux.
+sol,938,Utilisation prioritaire des centrales de production les plus proches de l'utilisation du réseau
+sol,940,Optimisation du mode veille des presses à injection
+sol,941,Optimisation du dosage des presses
+sol,942,Chauffage des moules par induction sur presse à injecter
+sol,943,Partage des bonnes pratiques entre les sites d'un même groupe
+sol,944,Clause d'efficacité énergétique dans les contrats d'exploitation et de maintenance
+sol,945,Niveau de pression optimum pour les pompes à vide
+sol,946,Diagnostic énergétique bâtiment
+sol,947,Centralisation du refroidissement hydraulique des presses à injection
+sol,948,Optimisation du diamètre des vis et fourreaux de presse à injecter et d'unité d'extrusion
+sol,949,Vérification de la qualité de l'air intérieur
+sol,950,Démarche éco-conception
+sol,951,Compteurs d'énergie thermique
+sol,954,Suppression des bras morts du réseau et parties qui ne sont plus utilisées
+sol,955,Campagne de mesures
+sol,956,Couplage du suivi énergétique avec le suivi de production au moyen de ratios
+sol,958,Optimisation du temps de mise en chauffe des presses
+sol,959,Etalement du démarrage des presses
+sol,960,Option points 10 minutes de la puissance électrique appelée
+sol,961,Emplacement optimisé des systèmes de chauffage radiant
+sol,962,Remplacement des anciens équipements par des équipements récents plus performants
+sol,963,Isolation hydraulique des chaudières quand elles ne sont pas utilisées
+sol,965,Amélioration du séchage de la vapeur
+sol,966,Station météo couplée à la  GTC
+sol,967,Nettoyage du système d'eau de process
+sol,968,Récupération instantanée de chaleur sur eaux grises pour la production d'ECS
+sol,969,Fermetures des meubles frigorifiques de vente à température négative
+sol,970,Système de management de l'énergie (norme ISO 50 001)
+sol,971,Compresseur basse pression à vis
+sol,974,Système de management hors certification
+sol,975,Mesure et optimisation des consommations de carburant pour une unité de transport fluvial
+sol,976,Carénage sur une unité de transport fluvial
+sol,977,Tracteur routier optimisé
+sol,978,Pompe à chaleur de type eau/eau ou air/eau pour le chauffage de serres horticoles
+sol,979,Récupérateur de chaleur à condensation pour serres horticoles
+sol,980,Diminution des éclairages décoratifs
+sol,981,Certification ISO 14 001
+sol,983,Disposition de l'éclairage parallèle aux allées
+sol,984,Camion de norme Euro 4 ou Euro 5
+sol,985,Optimisation du chargement des camions
+sol,986,Unité de production d'énergie géothermique
+sol,987,Micro éolienne pour alimenter les éclairages extérieurs
+sol,989,Récupération de l'eau de pluie
+sol,990,Collectes des cartons et palettes pour incinération
+sol,991,Compostage des déchets
+sol,992,Tri des déchets dangereux
+sol,993,Collecte sélective porte à porte
+sol,994,Bassins de rétention pour nettoyage des camions
+sol,995,Utilisation de papiers recyclables / recyclés
+sol,996,Suppression des prospectus
+sol,997,Diminution des déchets plastiques
+sol,998,Valorisation des produits éco-emballés
+sol,1000,Adaptation des horaires de l'éclairage à l'occupation des bâtiments
+sol,1001,Soufflettes d'air comprimé plus performantes
+sol,1002,Amélioration du système d'eau glacée
+sol,1003,Remplacement des chaudières vieillissantes par des équipements performants
+sol,1004,Vanne permettant de moduler la pression de distribution de la vapeur
+sol,1005,Optimisation des températures de séchage
+sol,1006,Isolation des séchoirs
+sol,1007,Séchoirs performants
+sol,1008,Vanne permettant d'isoler le départ vapeur
+sol,1009,Optimisation de la bâche d'eau glacée
+sol,1010,Système de commande prédictive sur un four
+sol,1011,Traitement efficaces des effluents
+sol,1012,Augmentation du taux de recyclage des rebuts plastiques des presses à injecter
+sol,1013,Four pâtissier électrique de haute qualité énergétique
+sol,1014,Variation électronique de vitesse sur hotte d'aspiration des procédés
+sol,1016,Séchage et vente de bois
+sol,1017,Récupération de chaleur pour préchauffer l'air comburant
+sol,1018,Isolation et la recirculation du stockage de carburant
+sol,1019,Chaudières à lit fluidisés
+sol,1020,Amélioration du système d'alimentation en combustible
+sol,1021,Capteur de poussières électrique
+sol,1022,Remplacement des chaudières vétustes
+sol,1023,Chaudières performantes à résidus de distillation
+sol,1024,Récupération de l'eau de vache des évaporateurs
+sol,1025,Récupération de la chaleur des tours de séchage
+sol,1026,Optimisation de la logistique
+sol,1027,Optimisation du cycle de synthèse de l'ammoniac
+sol,1028,Construire un réseau de gaz naturel haute pression
+sol,1029,Réparation des fuites des conduites contenant des produits chimiques
+sol,1030,Unité d'oxygène enrichi
+sol,1031,Amélioration du programme de gestion des fuites
+sol,1032,Turbine à contrepression
+sol,1033,Récupération de la chaleur des eaux perdues
+sol,1034,Optimisation de l'apport d'oxygène grâce à une sonde CO2 liée à une régulation sur le ventilateur
+sol,1035,Optimisation des transferts de chaleur
+sol,1036,Récupération de chaleur lorsque le produit se refroidit à l'air
+sol,1037,Récupérateur de chaleur sur groupe d'eau glacée
+sol,1039,Optimisation de la pression de fonctionnement
+sol,1041,Nettoyage de l'économiseur
+sol,1042,Vérification de la turbine installée par rapport à sa charge
+sol,1043,Optimisation du circuit du réseau vapeur
+sol,1044,Suppression des ASI (alimentation sans interruption) redondantes
+sol,1045,Arrêt des serveurs pendant les périodes de faible charge
+sol,1046,Fonctionnement des ASI (alimentation sans interruption) en mode by-pass
+sol,1047,Isolation des courants d'air chaud et froids dans les data-centers
+sol,1048,Groupe à eau glacée de haute efficacité
+sol,1049,Programmes de contrôle différent pour chaque groupe froid
+sol,1050,Réparation des gaines ou conduites perforées
+sol,1051,Fermeture des faux plafonds pour diminuer le volume d'air conditionné.
+sol,1052,Augmentation de la température de consigne de climatisation
+sol,1053,Consigne de déshumidifier au strict nécessaire
+sol,1054,Amélioration de la récupération des produits utilisés
+sol,1055,Modification du process pour limiter la consommation énergétique
+sol,1056,Réduction de l'utilisation de l'air comprimé et diminution des mauvais usages de l'air comprimé
+sol,1057,Contrôle des débits d'air
+sol,1058,Contrôle des conditions de fonctionnement
+sol,1060,Echangeurs de pression
+sol,1061,Variateur de vitesse sur compresseur d'air
+sol,1062,Chauffage en toiture gaz
+sol,1064,Retrofit du combustible Fioul au combustible Gaz
+sol,1065,Optimisation du système de distribution
+sol,1067,Joints d'étanchéité et de ballet pour les portes
+sol,1068,Réduction de la consommation des distributeurs de confiseries et boissons
+sol,1070,Moteur à haut rendement IE3 (premium)
+sol,1071,Rénovation totale du bâtiment
+sol,1072,Récupération des vapeurs des produits chimiques
+sol,1073,Isolation des canalisations et vannes chaudes non isolées
+sol,1074,Construction sur vide sanitaire
+sol,1075,Purge des radiateurs
+sol,1076,Nettoyage des filtres à air des tours de refroidissement
+sol,1077,Micro-cogénération
+sol,1078,Certification EN 16 001
+sol,1080,Radiants en remplacement de systèmes de chauffage convectif au gaz
+sol,1081,Sondes CO2 pour adapter la ventilation au besoin réel
+sol,1082,Chaudière d'appoint à la chaudière biomasse
+sol,1083,Transport de la chaleur thermique via un réseau de chaleur
+sol,1085,Nouvelle tour de refroidissement pour réduire l'utilisation d'eau dans le process
+sol,1087,Réduction du taux de purge de la chaudière par un système de contrôle.
+sol,1088,Osmose inverse pour l'optimisation du traitement de l'eau
+sol,1090,Pile à combustible pour produire de l'électricité
+sol,1091,Passer à une coulée continue pour la production d'acier.
+sol,1092,Remplacement des compresseurs d'air au diesel par des compresseurs à vapeur
+sol,1093,Système de purges automatique sur les tours de refroidissement
+sol,1094,Récupération du gaz de torche grâce à un compresseur
+sol,1095,Centrale frigorifique CO2 transcritique de type booster
+sol,1096,Ventilation par déplacements
+sol,1097,Optimisation des niveaux de consignes des échangeurs
+sol,1098,Identification des équipements responsables de la consommation talon
+sol,1099,Toiture végétalisée ou une réserve d'eau comme tampon thermique
+sol,1100,Arrêt des équipements chauffage situés proche de sources émettant de la chaleur
+sol,1101,Optimisation des éléments chauffant infrarouge des unités de thermoformage
+sol,1102,Limitant du fonctionnement à charge partielle des anciennes chaudières
+sol,1103,Unités de découpe laser performantes
+sol,1104,Optimisation de la performance énergétique des presses hydrauliques
+sol,1105,Chaudière à condensation pour le chauffage des serres horticoles
+sol,1107,Ecrans thermiques latéraux
+sol,1108,Ventilation naturelle hybride hygroréglable
+sol,1109,Chauffe-bain à condensation
+sol,1110,Utilisation de LED pour l’éclairage d’accentuation
+sol,1111,Utilisation de LED de type downlight
+sol,1112,Rééquilibrage d’une installation collective de chauffage à eau chaude
+sol,1113,Aérotherme biénergies à haute efficacité énergétique
+sol,1114,Système de régulation sur une installation frigorifique permettant d’avoir une basse pression flottante
+sol,1116,Sécheur à adsorption avec récupération de chaleur pour la régénération du sécheur
+sol,1117,Moteur à haut rendement IE4 (super premium)
+sol,1118,Séquenceur électronique pour le pilotage d’une centrale d’air comprimé
+sol,1119,Passage d’un réseau de chaleur en basse température
+sol,1120,Renforcement du calorifuge des canalisations d’un réseau de chaleur en caniveau
+sol,1121,Rénovation d’une illumination de mise en valeur
+sol,1123,Remotorisation d’une unité de transport fluvial
+sol,1124,Changement de catégorie de consommation des véhicules
+sol,1125,Gestion du poste pneumatique dans une flotte de poids lourds
+sol,1126,Gestion  du poste pneumatique dans une flotte de transport de personnes
+sol,1128,Optimisation du réseau de chauffage
+sol,1129,Cycles frigorifiques performants
+sol,1130,Gestion Technique Centralisée (GTC) pour le système de chauffage
+sol,1131,Optimisation de l'utilisation des rideaux d'air chaud
+sol,1132,Déplacement des dé-stratificateurs d'air
+sol,1133,Optimisation de l'emplacement des sondes de température
+sol,1134,Lampes à LED pour l'éclairage extérieur
+sol,1135,"Vérins, venturis, électrovannes et systèmes muti-pression performants"
+sol,1136,Recyclage de l'air intérieur des cabines de peinture
+sol,1137,Technologies de rupture pour sécher ou cuire la peinture
+sol,1138,Optimisation de la température de la cabine de peinture grâce à un régulateur d’hygrométrie de l’air
+sol,1139,Récupérateur de chaleur sur l'air extrait des cabines de peinture
+sol,1140,Variateur de vitesse sur presse à injecter
+sol,1141,Arrêt optimisé des lignes de production et de conditionnement
+sol,1142,Optimisation de la performance énergétique des presses mécaniques
+sol,1143,Système d'extraction localisé couplé à une variation de vitesse sur le ventilateur en remplacement d'une extraction continue
+sol,1144,Dimensionnement optimal du moteur principal de l'extrudeur
+sol,1445,Variation électronique de vitesse sur un compresseur frigorifique
+sol,1446,"Panneau solaire photovoltaïque monocristallin, sans tracker, raccordé au réseau"
+sol,1447,"Panneau solaire photovoltaïque monocristallin, sans tracker, isolé du réseau"
+sol,1448,"Panneau solaire photovoltaïque monocristallin, avec tracker 1 axe, raccordé au réseau"
+sol,1449,"Panneau solaire photovoltaïque monocristallin, avec tracker 1 axe, isolé du réseau"
+sol,1450,"Panneau solaire photovoltaïque monocristallin, avec tracker 2 axes, raccordé au réseau"
+sol,1451,"Panneau solaire photovoltaïque monocristallin, avec tracker 2 axes, isolé du réseau"
+sol,1452,"Panneau solaire photovoltaïque polycristallin, sans tracker, raccordé au réseau"
+sol,1453,"Panneau solaire photovoltaïque polycristallin, sans tracker, isolé du réseau"
+sol,1454,"Panneau solaire photovoltaïque polycristallin, avec tracker 1 axe, raccordé au réseau"
+sol,1455,"Panneau solaire photovoltaïque polycristallin, avec tracker 1 axe, isolé du réseau"
+sol,1456,"Panneau solaire photovoltaïque polycristallin, avec tracker 2 axes, raccordé au réseau"
+sol,1457,"Panneau solaire photovoltaïque polycristallin, avec tracker 2 axes, isolé du réseau"
+sol,1458,Eolienne à axe vertical
+sol,1459,Petite éolienne à axe horizontal
+sol,1460,Eolienne de moyenne puissance à axe horizontal
+sol,1461,Grande éolienne à axe horizontal
+sol,1462,Micro-cogénération avec moteur à combustion interne
+sol,1463,Micro-cogénération avec micro turbine
+sol,1464,Valorisation du biogaz par cogénération
+sol,1465,Valorisation du biogaz par électricité seulement
+sol,1466,Valorisation du biogaz par la production de chaleur seulement
+sol,1467,Injection du biogaz épuré dans le réseau
+sol,1468,Récupération des matières premières rejetées
+sol,1469,Valorisation financière des déchets
+sol,1470,Filtres pour récupérer les poussières 
+sol,1471,Création d'une zone pour le tri des déchets
+sol,1472,Presse pour compacter les déchets
+sol,1473,Recyclage des palettes de bois
+sol,1474,Revalorisation des résidus de bois et des sciures issus de l'industrie
+sol,1475,Amélioration de la durée de vie des produits chimiques
+sol,1476,Régulateurs pour les pulvérisateurs d'eau
+sol,1477,Régulateurs de débits
+sol,1478,Intégration d'un système de recirculation de l'eau
+sol,1479,Réutilisation des eaux usées dans les procédés
+sol,1480,Modification des systèmes d'approvisionnement et de distribution d'azote
+sol,1481,Protection des produits et matériaux contre les intempéries
+sol,1482,Implantation d'une serre à proximité d'une source de chaleur résiduelle
+sol,1483,Réservoir d'hydroaccumulation de chaleur
+sol,1484,Audit énergétique dans l'industrie
+sol,1485,Réduction des temps de purge
+sol,1486,Mur solaire passif
+sol,1487,Remplacement d'un four à convection par un four infrarouge
+sol,1488,Régulation sur les extracteurs d'air
+sol,1489,Préchauffage de l'eau du circuit de chauffage
+sol,1490,Ventilation en cycle fermé
+sol,1491,Récupérer l'énergie mécanique de moteur de test pour produire de l'électricité
+sol,1492,Broyeurs à haute efficacité lors du remplacement du matériel
+sol,1493,Raccord des unités fonctionnant sur des groupes électrogènes sur le réseau électrique
+sol,1494,"Convoyeur électrique en remplacement de convoyage par engins de logistique interne (camions, pelles …)."
+sol,1495,Eco conduite des engins de logistique interne
+sol,1496,"Utilisation des modes économiques et du mode ""start and stop"" des engins"
+sol,1497,Modification des horaires de production d'une unité pour éviter les pics de consommation
+sol,1498,Double tube de chauffage pour serres
+sol,1499,Echangeur-récupérateur de chaleur air/ air dans un bâtiment d'élevage de volailles
+sol,1500,Déshumidification via système thermodynamique pour chauffage de serres 
+sol,1501,Luminaire avec système de contrôle pour les parties communes
+sol,1502,Chauffe eau thermodynamique collectif à accumulation 
+sol,1503,Logiciel de réduction de consommation d'ordinateurs
+sol,1504,Raccordement d'un bâtiment à un réseau de froid
+sol,1505,Récupération de chaleur sur une tour de refroidissement
+sol,1506,Presse à injecter hybride en remplacement de presse hydraulique
+sol,1507,Optimisation d'un moteur diesel
+sol,1508,Autopartage
+sol,1509,Stockage de déchets en mode bioréacteur
+sol,1510,Valorisation du biogaz
+sol,1511,Co-incinération des déchets
+sol,1513,Promotion de la dryération
+sol,1519,Choix du filtre pour limiter le bridage du séchoir
+sol,1522,Pompe à chaleur haute température avec système à absorption
+sol,1523,Réglage des températures de consigne et des débits d'extraction
+sol,1527,Séchage en continu pendant toute la durée de la campagne
+sol,1533,Variateur de vitesse sur le ventilateur
+sol,1534,Optimisation du fonctionnement des extracteurs
+sol,1535,Exploitation des relevés pour piloter la ventilation de façon économe
+sol,1536,Vérification que le silencieux ne bride pas le ventilateur
+sol,1538,Réglage de l'horloge pour forcer la ventilation sur les heures les moins chères
+sol,1543,Détecteur de passage matières ou contrôle d'ampérage permettant un arrêt automatique des circuits
+sol,1554,Vitrage à faible émissivité / vitrage à contrôle solaire
+sol,1555,Triple vitrage
+sol,1556,Vitrage à teinte électrique / Vitrage électrochrome
+sol,1557,Vitrage à store intégré
+sol,1558,Optimisation de l'orientation des façades vitrées
+sol,1559,Optimisation de la phase poste minage (explosion) roulage dans les carrières
+sol,1560,Arrêt des locotracteurs lors de leur chargement
+sol,1561,Récupération de l’énergie potentielle de descente des bras des engins de manutention
+sol,1568,Méthode de séchage par refroidissement lent différé : la dryération
+sol,1571,Ajout de rupteurs de ponts thermiques
+sol,1572,Pare soleil végétal
+sol,1573,Auto contrôle de l'étanchéité à l'air
+sol,1574,Construction d'un bâtiment passif
+sol,1575,Panneaux d'isolation sous vide
+sol,1576,Choisir la consigne du thermostat de ventilation
+sol,1577,Calculer le réchauffement de l'air dans le ventilateur 
+sol,1578,Evaluer les possibilités de ventilation simultanée
+sol,1579,Adapter la température de séchage aux caractéristiques du grain 
+sol,1580,Evaluer la Consommation Thermique Spécifique (CTS) du séchoir à grains
+sol,1581,Favoriser le pré-nettoyage du grain
+sol,1582,Choisir son mode de pré-stockage
+sol,1583,Améliorer l’isolation de la colonne sécheuse
+sol,1585,Evaluer la durée de ventilation d’un palier
+sol,1586,Echangeur air/eau en haut du séchoir
+sol,1587,Echangeur air/eau en haut du séchoir
+sol,1588,Evaluer la durée de ventilation d’un palier
+sol,1589,Variateur de vitesse sur le ventilateur séchoir
+sol,1590,Entretien des courroies de transmission
+sol,1591,Brûleurs de gaz naturel à veine d'air en remplacement des échangeurs de vapeur 
+sol,1592,Variateur de vitesse sur le ventilateur de refroidissement
+sol,1593,Entretien des courroies de transmission
+sol,1594,Sous-comptage gaz
+sol,1595,Variateur de vitesse au niveau de la fosse de réception
+sol,1596,Variateur de vitesse sur le cyclone
+sol,1597,Fonctionnement du moteur en charge plutôt qu'à vide
+sol,1598,Chaudière biomasse
+sol,1599,ETM en cycle fermé
+sol,1600,ETM en cycle ouvert
+sol,1601,ETM en cycle hybride
+sol,1602,Eolienne offshore flottante 
+sol,1603,Fondations des éoliennes offshores posées
+sol,1604,Hydrolienne flottante
+sol,1605,Hydrolienne à flux axial
+sol,1606,Colonne d'eau oscillante côtière
+sol,1607,Colonne d'eau oscillante immergée 
+sol,1608,Houlomoteur à déferlement 
+sol,1609,Système oscillant à translation
+sol,1610,Système oscillant à rotation ou « serpent de mer »
+sol,1611,Simple bassin de retenue
+sol,1612,Double bassin de retenue 
+sol,1613,SWAC en boucle fermée 
+sol,1614,SWAC en boucle ouverte
+sol,1615,Choix du fluide frigorigène
+sol,1616,Stockage de froid par chaleur sensible 
+sol,1617,Stockage de froid par chaleur latente
+sol,1618,Stockage de froid par voie termochimique 
+sol,1619,Remplacer le compresseur par un éjecteur 
+sol,1620,Isolation thermique par rideau d'air 
+sol,1621,Machine frigorifique à compression
+sol,1622,Machine frigorifique à compression bi-étagée
+sol,1623,Plafond rayonnant à eau chaude
+sol,1624,Plafond rayonnant réversible
+sol,1627,Déshumidification de l'air par groupe à absorption indirect
+sol,1628,Ventilateur de plafond réversible 
+sol,1629,Peinture à haute efficacité énergétique
+sol,1630,Thermofrigopompe
+sol,1631,Garde-Corps 
+sol,1632,Panneaux solaires thermiques
+sol,1633,Remplacement des aérothermes vétustes par des nouveaux aérothermes à eau chaude
+sol,1634,Remplacement des aérothermes vétustes par des nouveaux aérothermes à vapeur
+sol,1635,Chauffe-Eau Solaire Collectif Individualisé (CESCI)
+sol,1636,Chauffe-Eau Solaire Collectif avec Appoint Individualisé (CESCAI)
+sol,1637,Variation de température sur le réseau de chaleur
+sol,1638,Sur isolation du réseau de chaleur
+sol,1639,Variation électronique de vitesse sur un réseau de chaleur
+sol,1640,Suivi de la performance du réseau de chaleur
+sol,1641,Sous station collective performante
+sol,1642,Fourniture d'énergie partielle à certains clients
+sol,1643,Ballon d'hydro accumulation pour optimiser l'utilisation du bois
+sol,1644,Solaire thermique centralisé pour un réseau de chaleur
+sol,1645,Optimisation du tracé du réseau de chaleur
+sol,1646,Chaudière à vapeur basse pression
+sol,1647,Conception pointue du réseau de diffusion d’air
+sol,1648,Suivi de l’étanchéité du réseau et nettoyage des gaines
+sol,1649,Dimensionnement du diamètre des nourrices
+sol,1650,Dimensionnement du groupe moto-ventilateur
+sol,1651,Ventilation assistée par groupe froid
+sol,1653,Variateur de vitesse sur le ventilateur de refroidissement
+sol,1654,"Bonnes pratiques pour mieux ventiler, en évitant le bridage du ventilateur"
+sol,1655,Ventilation par aspiration
+sol,1656,Utilisation d’un cahier de suivi de ventilation
+sol,1657,Gestion des arrivages/allotements des lots en fonction de leur humidité
+sol,1658,Réduire les erreurs de tri des déchets
+sol,1661,Bénéficier d'une exonération partielle de la TICFE (ou CSPE)
+sol,1664,Négocier la récupération des palettes/fûts avec le prestataire de déchets
+sol,1665,Bénéficier d'une exonération de la TICGN
+sol,1666,Optimiser les flux déchets
+sol,1667,Négocier les contrats déchets avec le prestataire actuel
+sol,1668,Lancer un appel d’offres
+sol,1669,Optimiser les taxes associées à la gestion des déchets 
+sol,1670,Optimiser le stockage des déchets
+sol,1671,Surveiller que le traitement facturé correspond bien au poids net sans les contenants
+sol,1672,Optimiser les fréquences des enlèvements des contenants des déchets
+sol,1673,Surveiller que le tonnage racheté correspond bien au poids réel dans mon contenant
+sol,1674,Séparer un déchet pour une meilleure valorisation
+sol,1675,Mettre en place le tri des papiers
+sol,1677,"Deshydrater un déchet pour réduire le volume stocké, transporté et traité"
+sol,1678,Réduire le gaspillage alimentaire en mettant en place le don
+sol,1679,Mettre en place le don (hors alimentaire)
+sol,1680,Etudier de nouvelles chaînes de valorisation des déchets de bois (y compris les palettes) en cherchant une valeur ajoutée pour l'entreprise.
+sol,1681,Valoriser les boues et les eaux polluées
+sol,1682,Mettre en place un économiseur d'eau sur les sanitaires
+sol,1683,Réduire la quantité d'eau consommée lors des phases de nettoyage
+sol,1684,Mettre en place un circuit fermé de refroidissement
+sol,1685,Asservir l'usage de l'eau au process
+sol,1686,Optimisation contrat eau / Taxes d'assainissement
+sol,1687,Préchauffer l'air neuf entrant
+sol,1688,Réduire la température de l'air en entrée dans les équipements d'air comprimé
+sol,1689,Mettre des bennes fermées pour limiter l'humidité
+sol,1690,Optimiser une filière de valorisation déchet existante
+sol,1691,Optimiser le tri des inertes
+sol,1692,Réemployer / réutiliser les matériaux inertes sur le même chantier ou sur un autre chantier
+sol,1693,Remplacer les groupes froids
+sol,1694,Optimisation de la consommation d'énergie sur les chantiers
+sol,1695,Remplacer un équipement par un équivalent plus performant
+sol,1697,Mettre en place des bacs de récupération sous les fûts et AD Blue
+sol,1698,Mettre en place un bac de décantation avant rejet à la nature
+sol,1699,Risque de pollution des sols sur les stockages derrière les ateliers
+sol,1700,Location du support de sachet plastique
+sol,1701,Etudier la faisabilité et la rentabilité du regroupement des compteurs électriques et l'optimisation des puissances souscrites
+sol,1702,Utilisation d'huiles et additifs pour réduire les frottements et la consommation de carburant.
+sol,1703,"Etudier l'optimisation de l'installation de chauffage (allonger la gaine de soufflage, passer à une centrale double flux avec préchauffage de l'air entrant)"
+sol,1704,"Remplacer les chariots élévateurs ""propane"" par des électriques"
+sol,1705,Suivre la consommation des véhicules du parc automobile
+sol,1706,Remplacer les PAC
+sol,1707,Arrêter l'utilisation de la chaudière gaz pour utiliser les PAC
+sol,1708,Changer les ordinateurs fixes par des ordinateurs portables
+sol,1709,Faire une étude carbone des préconisations
+sol,1710,Favoriser la communication digitale au catalogue papier
+sol,1711,Remplacer le chauffage des bains au gaz par une solution de production d’eau chaude ENR
+sol,1712,Mettre en place des portes sectionnelles pour garder la chaleur dans l’usine
+sol,1713,Films anti-chaleur sur les baies vitrées
+sol,1714,"Optimiser la production d'eau traitée (osmosé, filtration)"
